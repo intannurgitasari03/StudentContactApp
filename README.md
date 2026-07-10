@@ -6,20 +6,32 @@
 
 **Kelas: Pember B** 
 
-# Screenshot APK
-**1. Login**
+# Screenshot Aplikasi
 
-**2. Daftar Mahasiswa**
+## 1. Login
+![Login](screenshots/login.jpg)
 
-**3. Detail Catatan**
+## 2. Daftar Mahasiswa
+![Daftar Mahasiswa](screenshots/daftarMahasiswa.jpg)
 
-**4. Detail Mahasiswa**
+## 3. Tambah Data Mahasiswa
+![Tambah Data Mahasiswa](screenshots/tambahData.jpg)
 
-**5. Setting**
+## 4. Detail Catatan Mahasiswa 
+![Detail Mahasiswa](screenshots/buatCatatan.jpg)
 
-**6. Hapus data Mahasiswa**
+## 5. Pengaturan (Settings)
+![Settings](screenshots/setting.jpg)
 
-**7. Dark Mode**
+## 6. Hapus Data Mahasiswa
+![Hapus Data Mahasiswa](screenshots/hapusData.jpg)
+
+## 7. Dark Mode
+![Dark Mode](screenshots/darkMode.jpg)
+
+## 8. Edit Data Mahasiswa
+![Edit Data Mahasiswa](screenshots/editData.jpg)
+
 
 **Deskripsi Singkat Aplikasi**
 StudentContactApp adalah aplikasi Android yang digunakan untuk mengelola data mahasiswa. Pada aplikasi ini, pengguna dapat menambahkan, mengubah, menghapus, mencari, dan melihat detail data mahasiswa. Data yang disimpan meliputi nama, NIM, program studi, email, dan semester. Selain itu, aplikasi juga memiliki fitur login dengan Remember Me, pengaturan profil, serta catatan mahasiswa yang disimpan di penyimpanan internal. Tampilan aplikasi dibuat sederhana agar mudah digunakan.
