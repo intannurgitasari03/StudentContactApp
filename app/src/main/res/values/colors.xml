@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Utama -->
+    <color name="primaryBlue">#3F51B5</color>
+    <color name="bgApp">#F5F7FB</color>
+    <color name="bgLight">#F5F7FB</color>
+
+    <!-- Tombol Aksi List (Gaya Sticker Transparan) -->
+    <color name="btnEditBg">#EBF3FF</color>
+    <color name="btnEditTeks">#3F51B5</color>
+    <color name="btnDelBg">#FFF0F0</color>
+    <color name="btnDelTeks">#F44336</color>
+
+    <!-- Avatar -->
+    <color name="circleAF">#3F51B5</color>
+    <color name="circleBS">#E91E63</color>
+    <color name="circleCW">#009688</color>
+
+    <!-- Switch Colors Presisi (Thumb Putih) -->
+    <color name="switchTrackOn">#3F51B5</color>
+    <color name="switchTrackOff">#E0E0E0</color>
+    <color name="switchThumb">#FFFFFF</color>
+
+    <!-- Teks -->
+    <color name="textPrimary">#333333</color>
+    <color name="textSecondary">#757575</color>
+    <color name="logoutRed">#F44336</color>
+</resources>

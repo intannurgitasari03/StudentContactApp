@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Bingkai Putih Stiker (Outer Layer) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,1L0.5,12h2.5v9.5h18v-9.5h2.5L12,1z" />
+    <!-- Atap Merah -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M12,3L2,12h3v8h14v-8h3L12,3z" />
+    <!-- Badan Krem -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M7,12v7h10v-7H7z" />
+    <!-- Jendela Biru Muda -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M9,14h2v2H9zM13,14h2v2h-2z" />
+    <!-- Pintu Cokelat -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M11,19v-3h2v3h-2z" />
+</vector>
